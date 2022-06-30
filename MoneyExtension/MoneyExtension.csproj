@@ -15,13 +15,9 @@
     <RepositoryUrl>https://github.com/IgorVicenteMachado/money-extension</RepositoryUrl>
     <PackageProjectUrl>https://github.com/IgorVicenteMachado/money-extension</PackageProjectUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageIcon>icon.png</PackageIcon>
     <PackageTags>money;int;decimal;converter</PackageTags>
     <Title>MoneyExtensionsEPKXR</Title>
 	<Summary>Extension to convert decimal to integer</Summary>
   </PropertyGroup>
 
-	<ItemGroup>
-		<None Include="..\media\icon.png" Pack="true" PackagePath="\"/>
-	</ItemGroup>
 </Project>
