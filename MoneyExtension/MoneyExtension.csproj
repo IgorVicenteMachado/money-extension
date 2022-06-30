@@ -5,18 +5,19 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 
-	<PackgedId>MoneyExtensions</PackgedId>
-	<Version>1.0.0</Version>
-	<License>MIT</License>
-	<Authors>Ivm</Authors>
-	<Company>Ivm</Company>
-	<PackageDescription>Convert Decimal to integer</PackageDescription>
-	<RepositoryUrl>https://github.com/IgorVicenteMachado/money-extension</RepositoryUrl>
-	<PackageProjectUrl>https://github.com/IgorVicenteMachado/money-extension</PackageProjectUrl>
-	<PackageLicenseExpression>MIT</PackageLicenseExpression>
-	<PackageIcon>icon.png</PackageIcon>
-	<PackageTags>money;int;decimal;converter</PackageTags>
-	<Title>MoneyExtensions</Title>
+	<PackageId>MoneyExtensions</PackageId>
+    <Version>1.0.0</Version>
+    <License>MIT</License>
+    <Authors>Igor Vicente</Authors>
+    <Company>ivm</Company>
+    <PackageDescription>Convert Decimal to integer</PackageDescription>
+    <Description>Notifications made easy</Description>
+    <RepositoryUrl>https://github.com/IgorVicenteMachado/money-extension</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/IgorVicenteMachado/money-extension</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageIcon>icon.png</PackageIcon>
+    <PackageTags>money;int;decimal;converter</PackageTags>
+    <Title>MoneyExtensions</Title>
 	<Summary>Extension to convert decimal to integer</Summary>
   </PropertyGroup>
 
